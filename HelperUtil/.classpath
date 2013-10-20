@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.3.jar" sourcepath="C:/Users/lixiuhai/.m2/repository/commons-lang/commons-lang/2.3/commons-lang-2.3-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/postgresql-9.1-902.jdbc4.jar"/>
+	<classpathentry kind="lib" path="lib/excelHelper.jar"/>
+	<classpathentry kind="lib" path="lib/ws_client/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="lib/ws_client/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/ws_client/huwsdl.jar"/>
+	<classpathentry kind="lib" path="lib/ws_client/log4j-1.2.15.jar" sourcepath="C:/Users/lixiuhai/.m2/repository/log4j/log4j/1.2.15/log4j-1.2.15-sources.jar"/>
+	<classpathentry kind="lib" path="lib/ws_client/axis.jar"/>
+	<classpathentry kind="lib" path="lib/ws_client/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/ws_client/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="lib/ws_client/saaj.jar"/>
+	<classpathentry kind="lib" path="lib/ws_client/wsdl4j.jar"/>
+	<classpathentry kind="lib" path="lib/quartz/jta.jar"/>
+	<classpathentry kind="lib" path="lib/quartz/quartz-all-1.8.3.jar"/>
+	<classpathentry kind="lib" path="lib/quartz/slf4j-api-1.5.10.jar"/>
+	<classpathentry kind="lib" path="lib/quartz/slf4j-log4j12-1.5.10.jar"/>
+	<classpathentry kind="lib" path="lib/mail.jar"/>
+	<classpathentry kind="lib" path="lib/smtp.jar"/>
+	<classpathentry kind="lib" path="lib/geronimo-javamail_1.4_spec-1.7.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
